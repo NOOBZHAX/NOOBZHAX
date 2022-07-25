@@ -24,10 +24,7 @@
     [<a href="mailto:admin@masih.tk" target="_blank">mail</a>]
   </samp>
   <br />
-  <!--<br />-->
-  <!--<samp>-->
-  <!--  <img src="https://komarev.com/ghpvc/?username=noobzhax&label=Profile%20views&color=0e75b6&style=flat-square"&label=👀 alt="noobzhax" />-->
-  <!--</samp>-->
+
   </p>
 
   <h2></h2><br>
