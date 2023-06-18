@@ -1,34 +1,8 @@
-<p align="left">
-  <b><samp>「</samp></b>
-</p>
-<p align="center">
-  <samp>
-    History is always written by the winners 🏆.<br>
-  </samp>
-</p>
-<p align="right">
-  <b><samp>」</samp></b>
-</p>
+&nbsp;<div align="center">
+  [![Spotify](https://spot-readme.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/)
+</div>
 
-<br>
-
-<details align="center">
-  <summary> &#9655;</summary>
-
-  <h2></h2><br>
-  <p align="center">
-  <br />
-  <samp>
-    [<a href="https://t.me/noobzhaxme" target="_blank">telegram</a>]
-    [<a href="https://ko-fi.com/noobzhax" target="_blank">ko-fi</a>]
-    [<a href="mailto:admin@masih.tk" target="_blank">mail</a>]
-  </samp>
-  <br />
-  <br />
-  <samp>
-    <img src="https://komarev.com/ghpvc/?username=noobzhax&label=Profile%20views&color=0e75b6&style=flat-square"&label=👀 alt="noobzhax" />
-  </samp>
-  </p>
-
-  <h2></h2><br>
-</details>
+&nbsp;<div align="center">
+  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](mailto:hi@pakai.eu.org)
+  [![Visits](https://komarev.com/ghpvc/?username=noobzhax&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/noobzhax)
+</div>
